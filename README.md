@@ -17,8 +17,8 @@
 </style>
 
 
-<svg class="icon user-icon"><use xlink:href="#group" /></svg>
-<svg class="icon group-icon"><use xlink:href="#user" /></svg>
+<svg class="icon user-icon"><use xlink:href="#user" /></svg>
+<svg class="icon group-icon"><use xlink:href="#group" /></svg>
 ```
 
 ##Gulp

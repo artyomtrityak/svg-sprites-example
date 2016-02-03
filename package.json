@@ -1,0 +1,34 @@
+{
+  "name": "svg-sprites-example",
+  "version": "1.0.0",
+  "description": "Gulp and grunt svg sprites build and use",
+  "main": "index.js",
+  "scripts": {
+    "gulp-sprites": "gulp",
+    "grunt-sprites": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artyomtrityak/svg-sprites-example.git"
+  },
+  "keywords": [
+    "svg",
+    "sprites",
+    "gulp",
+    "grunt",
+    "icons"
+  ],
+  "author": "Artyom Trityak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artyomtrityak/svg-sprites-example/issues"
+  },
+  "homepage": "https://github.com/artyomtrityak/svg-sprites-example#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-svg-sprite": "^1.2.19",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-svg-sprite": "^1.2.19"
+  }
+}

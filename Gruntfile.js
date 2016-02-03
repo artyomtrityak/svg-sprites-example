@@ -6,15 +6,11 @@ outDir       = 'svg-sprites',     // <-- Main output directory
 config       = {
     "log": "debug",
     "mode": {
-        "css": true,
-        "view": true,
-        "defs": true,
-        "symbol": true,
-        "stack": true
+        "symbol": true
     }
 };
 
-module.exports = function(grunt) {
+module.exports = (grunt) => {
 
     // Project configuration
     grunt.initConfig({
